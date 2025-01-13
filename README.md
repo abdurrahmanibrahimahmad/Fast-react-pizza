@@ -5,7 +5,7 @@ Got it! Here's a `README.md` template for your **Fast React Pizza** project:
 # Fast React Pizza
 
 Fast React Pizza is a modern pizza ordering web app built with React, Redux, and an external API. The app allows users to browse and order pizza from a menu, track their location, and complete orders with ease. The application uses Redux for state management, enabling smooth and consistent updates across the app.
-##Live Demo 👎
+## Live Demo 👎
 [Fast-React-Pizza](https://fast-react-pizza-dev.vercel.app/)
 ## Features
 
